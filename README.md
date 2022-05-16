@@ -5,6 +5,7 @@ A group project for implementing covid 19 image classifier.
 
 # Link For DataSet used:
 https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+
 We have 3 classes ( Covid - Normal - Viral Pneumonia )
 
 # Link For Paper used:
